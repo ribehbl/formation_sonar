@@ -1,0 +1,1 @@
+A 2webXhr2src/main/resources/templates/fragments/footer.html

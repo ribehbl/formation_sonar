@@ -1,0 +1,1 @@
+7 2jsXŽPhr,src/main/resources/static/js/jquery-3.2.1.js

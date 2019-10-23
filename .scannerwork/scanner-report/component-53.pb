@@ -1,0 +1,1 @@
+5 2jsXhr;src/main/resources/static/js/ie8-responsive-file-warning.js

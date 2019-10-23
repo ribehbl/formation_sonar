@@ -1,0 +1,39 @@
+SonarQube plugins:
+  - SonarPython 1.14.1.3143 (python)
+  - SonarCSS 1.1.1.1010 (cssfamily)
+  - GitHub Authentication for SonarQube 1.5.0.870 (authgithub)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.1.1.2000 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.2.1.7778 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 7.15.0.8572 (csharp)
+  - SonarJava 5.13.1.18282 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - Git 1.8.0.1574 (scmgit)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SAML 2.0 Authentication for SonarQube 1.1.0.181 (authsaml)
+  - SonarPHP 3.2.0.4868 (php)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.15.0.8572 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AW34PSUl8Nn6MF45v0-b
+  - sonar.core.startTime=2019-10-23T11:50:18+0100
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=target/classes,target/test-classes
+  - sonar.projectBaseDir=D:\Formation Sonar\TP\archijavajeespringboot
+  - sonar.projectKey=sofrecom_Devrap:archijee
+  - sonar.projectName=ArchiSample
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=4.0.0.1744
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=src/main
+  - sonar.verbose=true
+  - sonar.working.directory=D:\Formation Sonar\TP\archijavajeespringboot\.scannerwork

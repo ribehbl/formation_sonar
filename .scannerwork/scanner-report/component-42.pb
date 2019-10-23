@@ -1,0 +1,1 @@
+* 2cssXThr'src/main/resources/static/css/style.css
