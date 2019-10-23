@@ -1,9 +1,9 @@
 addons:
   sonarcloud:
-    organization: "sanogotech"
+    organization: "ribehbl"
     token:
-      secure: "40a7da271b785f757f93fd9f2dffc6428297882a" # encrypted value of your token
+      secure: "233523f9df8b8d63f683353d12d065eb46b62198" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
-  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=sanogotech_archijavajeespringboot
+  - mvn clean org.jacoco:jacoco-maven-plugin:prepare-agent install sonar:sonar -Dsonar.projectKey=ribehbl_formation_sonar
